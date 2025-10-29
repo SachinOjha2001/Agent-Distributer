@@ -3,6 +3,8 @@
 
 <img src="https://github.com/SachinOjha2001/Agent-Distributer/blob/main/Screenshot%202025-10-29%20094928.png?raw=true">
 
+<img src="https://github.com/SachinOjha2001/Agent-Distributer/blob/main/Screenshot%202025-10-29%20094942.png?raw=true">
+
 
 ## **Project Overview**
 
@@ -14,7 +16,9 @@ Agent Distributor is a web application built using the **MERN stack** (MongoDB, 
 - Automatic distribution of leads among agents  
 - Viewing assigned leads  
 
----
+ ```
+
+
 
 ## **Features**
 
