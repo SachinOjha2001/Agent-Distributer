@@ -1,5 +1,9 @@
 # Agent Distributor - MERN Stack Application
 
+
+<img src="https://github.com/SachinOjha2001/Agent-Distributer/blob/main/Screenshot%202025-10-29%20094928.png?raw=true">
+
+
 ## **Project Overview**
 
 Agent Distributor is a web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that allows an admin to manage agents and distribute leads through CSV or Excel files. The app provides features such as:  
@@ -31,7 +35,7 @@ Agent Distributor is a web application built using the **MERN stack** (MongoDB, 
 
 ## **Folder Structure**
 
-mern-agent-distributer/
+agent-distributer/
 │
 ├─ backend/
 │ ├─ package.json
@@ -49,7 +53,9 @@ mern-agent-distributer/
 │ ├─ middleware/
 │ │ └─ authMiddleware.js
 │ └─ .env
-│
+
+
+
 ├─ frontend/
 │ ├─ package.json
 │ ├─ src/
