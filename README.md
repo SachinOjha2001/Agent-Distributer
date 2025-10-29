@@ -36,40 +36,36 @@ Agent Distributor is a web application built using the **MERN stack** (MongoDB, 
 ## **Folder Structure**
 
 agent-distributer/
-│
-├─ backend/
-│ ├─ package.json
-│ ├─ server.js
-│ ├─ config/
-│ │ └─ db.js
-│ ├─ models/
-│ │ ├─ User.js
-│ │ ├─ Agent.js
-│ │ └─ AssignedList.js
-│ ├─ routes/
-│ │ ├─ auth.js
-│ │ ├─ agents.js
-│ │ └─ upload.js
-│ ├─ middleware/
-│ │ └─ authMiddleware.js
-│ └─ .env
-
-
-
-├─ frontend/
-│ ├─ package.json
-│ ├─ src/
-│ │ ├─ main.jsx
-│ │ ├─ App.jsx
-│ │ ├─ api.js
-│ │ ├─ styles.css
-│ │ └─ components/
-│ │ ├─ Login.jsx
-│ │ ├─ Dashboard.jsx
-│ │ ├─ AddAgent.jsx
-│ │ └─ UploadLists.jsx
-│ └─ .env
-└─ README.md
+├── backend/
+│   ├── package.json
+│   ├── server.js
+│   ├── .env
+│   ├── config/
+│   │   └── db.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Agent.js
+│   │   └── AssignedList.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── agents.js
+│   │   └── upload.js
+│   └── middleware/
+│       └── authMiddleware.js
+├── frontend/
+│   ├── package.json
+│   ├── .env
+│   ├── src/
+│   │   ├── main.jsx
+│   │   ├── App.jsx
+│   │   ├── api.js
+│   │   ├── styles.css
+│   │   └── components/
+│   │       ├── Login.jsx
+│   │       ├── Dashboard.jsx
+│   │       ├── AddAgent.jsx
+│   │       └── UploadLists.jsx
+└── README.md
 
 
 ---
